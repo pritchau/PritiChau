@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Automation Testing**
 
-- 👯 I’m looking to collaborate on **Selenium, Automation Frameworks, API Testing**
+- 👯 I’m looking to collaborate on **Selenium, Automation Frameworks**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pritchau/PritiChau](https://github.com/pritchau/PritiChau)
 
